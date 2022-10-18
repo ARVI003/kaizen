@@ -101,6 +101,27 @@ a {
   font-size: 14px;
   line-height: 21px;
   color: #2C3E50;
+
+#hero .hero {
+  background: url("../img/Rectangle 2068.png");
+  min-height: 100vh;
+}
+#hero .hero--text--terco {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  color: white;
+}
+#hero .hero--text--zento {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: white;
+}
+#hero .hero--text h3 {
+  font-size: 35px;
+  color: red;
+
 }
 
 /*# sourceMappingURL=style.css.map */
