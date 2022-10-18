@@ -1,1 +1,108 @@
 @import "reset";
+
+
+#cold{
+  background: #010131;
+  padding: 70px 0;
+  .cold{
+
+    &--summer{
+      font-weight: 700;
+      font-size: 36px;
+      line-height: 54px;
+      color: #FFFFFF;
+      margin-bottom: 30px;
+    }
+
+    &--tame{
+      width: 98%;
+      height: 600px;
+      background: #FFFFFF;
+      border-radius: 15px;
+
+
+      &--tiger{
+        display: flex;
+        justify-content: space-around;
+
+        padding-top: 40px;
+        &--under{
+          font-weight: 400;
+          font-size: 16px;
+          line-height: 21px;
+          text-transform: capitalize;
+          color: #2C3E50;
+
+        }
+
+        &--wife{
+          font-weight: 400;
+          font-size: 16px;
+          line-height: 21px;
+          text-transform: capitalize;
+          color: #2C3E50;
+
+          span{
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 21px;
+            text-transform: capitalize;
+            color: #2C3E50;
+          }
+
+        }
+      }
+
+      &--winter{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding-top: 23px;
+        &--woman{
+
+          &--bird{
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 30px;
+            color: #2C3E50;
+          }
+
+          &--boss{
+            ion-icon{
+              color: #397003;
+              margin: 0 10px;
+            }
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 25px;
+            color: #2C3E50;
+            margin-left: -10px;
+            margin-bottom: 10px;
+          }
+
+          &--firm{
+            &--fisher{
+              font-weight: 700;
+              font-size: 20px;
+              line-height: 30px;
+              color: #2C3E50;
+            }
+
+            &--girl{
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 25px;
+              color: #2C3E50;
+              span{
+                font-weight: 700;
+                font-size: 14px;
+                line-height: 21px;
+                color: #2C3E50;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

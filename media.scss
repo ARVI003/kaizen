@@ -10,6 +10,26 @@
 
 @media (max-width: 1024px) {
 
+  #cold .cold--tame--tiger {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  #cold .cold--tame--tiger--under {
+    margin-bottom: 24px;
+  }
+
+  #cold .cold--tame--winter {
+    flex-direction: column-reverse;
+  }
+
+  #cold .cold--tame {
+    height: 1134px;
+  }
+
+
+
+
 }
 
 @media (max-width: 992px) {
@@ -26,6 +46,35 @@
 
 @media (max-width: 450px) {
 
+  #cold .cold--tame--tiger--under {
+    font-size: 11px;
+  }
+
+  #cold .cold--tame--tiger--wife {
+    font-size: 14px;
+  }
+
+  #cold .cold--tame--tiger--wife span {
+    font-size: 14px;
+  }
+
+  #cold .cold--tame--winter--woman--bird {
+    font-size: 18px;
+  }
+
+  #cold .cold--tame--winter--woman--boss {
+    font-size: 13px;
+  }
+
+  #cold .cold--tame--winter--woman--firm--fisher {
+    font-size: 18px;
+  }
+
+
+
+
+
+
 }
 
 @media (max-width: 425px) {
@@ -34,12 +83,87 @@
 
 @media (max-width: 380px) {
 
+  #cold .cold--tame {
+    height: 1026px;
+  }
+
+  #cold .cold--summer {
+    font-size: 30px;
+  }
+
+  #cold .cold--tame--tiger--under {
+    font-size: 10px;
+  }
+
+  #cold .cold--tame--tiger--wife {
+    font-size: 12px;
+  }
+
+  #cold .cold--tame--tiger--wife span {
+    font-size: 12px;
+  }
+
+  #cold .cold--tame--winter--woman--bird {
+    font-size: 16px;
+  }
+
+  #cold .cold--tame--winter--woman--boss {
+    font-size: 11px;
+  }
+
+  #cold .cold--tame--winter--woman--firm--fisher {
+    font-size: 16px;
+  }
+
+  #cold .cold--tame--winter--where{
+    width: 90%;
+  }
+
+
 }
 
 @media (max-width: 370px) {
 
+  #cold .cold--tame {
+    height: 1018px;
+  }
+
 }
 
 @media (max-width: 320px) {
+
+  #cold .cold--tame {
+    height: 1020px;
+  }
+
+  #cold .cold--summer {
+    font-size: 26px;
+  }
+
+  #cold .cold--tame--tiger--under {
+    font-size: 9px;
+  }
+
+  #cold .cold--tame--tiger--wife {
+    font-size: 10px;
+  }
+
+  #cold .cold--tame--winter--woman--bird {
+    font-size: 15px;
+  }
+
+  #cold .cold--tame--winter--woman--boss {
+    font-size: 9px;
+  }
+
+  #cold .cold--tame--winter--woman--firm--fisher {
+    font-size: 13px;
+  }
+
+  #cold .cold--tame--winter--woman--firm--girl span {
+    font-size: 13px;
+  }
+
+
 
 }
